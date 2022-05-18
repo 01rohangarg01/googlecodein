@@ -52,4 +52,4 @@ grid;
 xlabel("Distance");
 ylabel("Path Loss");
 legend("Path Loss Exponent = 2", "Path Loss Exponent = 3", "Path Loss Exponent = 6");
-title("Path Loss Amplitude vs Distance (101906162)");
+title("Path Loss Amplitude vs Distance");
